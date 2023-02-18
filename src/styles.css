@@ -16820,9 +16820,9 @@
     background-image: url("../img/asc.gif");
   }
   
-  table.tablesorter thead tr .headerSortDown {
+ /* table.tablesorter thead tr .headerSortDown {
     background-image: url("../img/desc.gif");
-  }
+  }*/
   
   .dataTables_wrapper .table-striped tbody tr:nth-of-type(odd) {
     background-color: rgba(0, 0, 0, 0.05);
